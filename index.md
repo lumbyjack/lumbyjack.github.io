@@ -26,6 +26,10 @@ I also dabbled in minecraft plugin wiriting in my early to late teens however mo
  - [Wheel OF fortune GUI](https://www.curseforge.com/minecraft/bukkit-plugins/wheel-of-fortune-gui)
 I used to host a Minecraft server with over 200 active players during this time as well.
 
+## Other content
+During my early to late teen years i aslo wrote multipl eother java based games.
+One of these games was a private version of a very popular MMO at the time.
+
 ## 3d Modeling / priting
   My most recent hobby is 3D modeling / priting. 
   Some exaples of my models are as follows:
