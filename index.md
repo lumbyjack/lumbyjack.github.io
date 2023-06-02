@@ -8,7 +8,7 @@ The majority of my work in recent times has been on [SpaceEngineers](https://www
  I have developed multiple Mod's and Plugins in C# for this game
 
   Plugins:
-  - [Idiot's Plugin]() [Files available on request]  
+  - [Idiot's Plugin](https://github.com/lumbyjack/Idiot-Plugin) [Files available on request]  
       Manages space engineers servers:
        Restart times, anti cheat, death logging, vote rewards, commands, asyncronous SQL connections etc..
        
